@@ -1,0 +1,23 @@
+{
+  "name": "ex",
+  "version": "1.0.0",
+  "description": "excution for typescript ",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngAtyaMohammed/TypeScript-ex.git"
+  },
+  "author": "Atya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngAtyaMohammed/TypeScript-ex/issues"
+  },
+  "homepage": "https://github.com/EngAtyaMohammed/TypeScript-ex#readme"
+}
